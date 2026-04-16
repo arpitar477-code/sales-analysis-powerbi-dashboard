@@ -28,7 +28,7 @@ It provides insights into sales trends, product performance, and regional analys
 
 ### 🔹 Overall Dashboard
 
-![Dashboard Overview](screenshots.png)
+![Dashboard Overview]dashboard.png
 
 ### 🔹 Sales Trends & Insights
 
