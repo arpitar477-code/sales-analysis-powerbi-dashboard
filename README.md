@@ -1,4 +1,4 @@
-# Sales & Profitability Analysis Dashboard Sales Analysis Power BI Dashboard 
+# Sales & Profitability Analysis Dashboard 
 Note: This project was previously named "Sales Analysis Power BI Dashboard" in earlier versions.
 
 ##  Overview
